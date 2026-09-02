@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Miguel da Silva Quisamela
+# 👋 Hi! It's your boy Miguel Quisamela
 
 ### Computer Engineer • Teacher & Trainer • Full-Stack Developer • Designer
 
@@ -24,18 +24,16 @@
 
 I'm **Miguel da Silva Quisamela**, a Computer Engineer, Teacher, and Technology Trainer passionate about technology, education, and building digital solutions.
 
-I enjoy turning real-world problems into **simple, functional, and scalable systems** — from **web applications and academic platforms** to **automation, data analysis, Excel, and Power BI**.
+<!--I enjoy turning real-world problems into **simple, functional, and scalable systems** — from **web applications and academic platforms** to **automation, data analysis, Excel, and Power BI**.-->
 
 ### My current professional focus
 
-- 💻 **Web application and management system development**
-- ⚙️ **Backend development** with **PHP/Laravel** and **Python**
-- 🌐 **Frontend development** with **HTML, CSS, and JavaScript**
-- 🗄️ **Database management** with **MySQL/SQL**
-- 📊 **Advanced Excel, VBA, and Power BI**
-- 🤖 **Automation, system integration, and intelligent tools**
-- 🎓 **Training in computer science, mathematics, and technology**
-- 🎨 **Digital design and technology-focused brands and products**
+- **Web application and management system development**
+- **Backend development** with **PHP/Laravel**
+- **Frontend development** with **HTML, CSS, and JavaScript**
+- **Database management** with **MySQL**
+- **Advanced Excel, VBA, and Power BI**
+- **Training in computer science, mathematics, and technology**
 
 > **"Technology is most powerful when it solves a real problem."**
 
@@ -46,13 +44,13 @@ I enjoy turning real-world problems into **simple, functional, and scalable syst
 ### Programming & Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,javascript,html,css,mysql,git,github,vscode&perline=12" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,html,css,mysql,git,github,vscode&perline=12" />
 </p>
 
 ### Data, Productivity & Automation
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql&perline=8" />
+  <!--<img src="https://skillicons.dev/icons?i=python,mysql&perline=8" />-->
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" />
   <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white" />
