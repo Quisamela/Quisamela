@@ -2,9 +2,9 @@
 
 # 👋 Hi! It's your boy Miguel Quisamela
 
-### Computer Engineer • Teacher & Trainer • Full-Stack Developer • Designer
+<!--### Computer Engineer • Teacher & Trainer • Full-Stack Developer • Designer-->
 
-<!--<p>
+<p>
   <a href="https://github.com/Quisamela">
     <img src="https://img.shields.io/github/followers/Quisamela?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0A66C2" alt="GitHub followers"/>
   </a>
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/github/stars/Quisamela?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=0A66C2" alt="GitHub stars"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Quisamela&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>-->
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=850&lines=Building+solutions+with+code+%F0%9F%92%BB;Teaching+technology+and+mathematics+%F0%9F%93%9A;Laravel+%7C+PHP+%7C+JavaScript+%7C+SQL;Excel+%7C+Power+BI+%7C+Automation+%7C+Data;Turning+ideas+into+useful+digital+products+%F0%9F%9A%80" alt="Typing SVG"/>
 
