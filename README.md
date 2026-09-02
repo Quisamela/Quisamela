@@ -20,22 +20,22 @@
 
 ---
 
-## Sobre mim
+## About Me
 
-Sou Miguel da Silva Quisamela, engenheiro informático, professor e formador apaixonado por tecnologia, educação e criação de soluções digitais.
+I'm **Miguel da Silva Quisamela**, a Computer Engineer, Teacher, and Technology Trainer passionate about technology, education, and building digital solutions.
 
-Gosto de transformar problemas reais em sistemas simples, funcionais e escaláveis — desde **sistemas web e plataformas académicas** até **automação, análise de dados, Excel e Power BI**.
+I enjoy turning real-world problems into **simple, functional, and scalable systems** — from **web applications and academic platforms** to **automation, data analysis, Excel, and Power BI**.
 
-Atualmente, o meu foco profissional está especialmente em:
+### My current professional focus
 
--  Desenvolvimento de aplicações web e sistemas de gestão
--  Backend com **PHP/Laravel** e **Python**
--  Frontend com **HTML, CSS, JavaScript
--  Bases de dados com **MySQL/SQL**
--  **Excel avançado, VBA e Power BI**
--  Automação, integração de sistemas e ferramentas inteligentes
--  Formação em informática, matemática e tecnologia
--  Design digital e construção de marcas/produtos tecnológicos
+- 💻 **Web application and management system development**
+- ⚙️ **Backend development** with **PHP/Laravel** and **Python**
+- 🌐 **Frontend development** with **HTML, CSS, and JavaScript**
+- 🗄️ **Database management** with **MySQL/SQL**
+- 📊 **Advanced Excel, VBA, and Power BI**
+- 🤖 **Automation, system integration, and intelligent tools**
+- 🎓 **Training in computer science, mathematics, and technology**
+- 🎨 **Digital design and technology-focused brands and products**
 
 > **"Technology is most powerful when it solves a real problem."**
 
