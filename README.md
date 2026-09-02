@@ -45,13 +45,13 @@ Atualmente, o meu foco profissional está especialmente em:
 
 ### Programming & Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,flask,javascript,jquery,html,css,mysql,git,github,vscode&perline=12" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,javascript,html,css,mysql,git,github,vscode&perline=12" />
 </p>
 
 ### Data, Productivity & Automation
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql&perline=8" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" />
@@ -60,13 +60,13 @@ Atualmente, o meu foco profissional está especialmente em:
 
 ### Tools & Workflow
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <!--<img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" />-->
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white" />-->
 </p>
 
 
