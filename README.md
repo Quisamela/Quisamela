@@ -30,7 +30,7 @@ Atualmente, o meu foco profissional está especialmente em:
 
 -  Desenvolvimento de aplicações web e sistemas de gestão
 -  Backend com **PHP/Laravel** e **Python**
--  Frontend com **HTML, CSS, JavaScript e jQuery**
+-  Frontend com **HTML, CSS, JavaScript
 -  Bases de dados com **MySQL/SQL**
 -  **Excel avançado, VBA e Power BI**
 -  Automação, integração de sistemas e ferramentas inteligentes
@@ -63,7 +63,7 @@ Atualmente, o meu foco profissional está especialmente em:
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" />-->
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white" />
