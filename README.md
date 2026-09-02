@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Miguel da Silva Quisamela
 
-### 💻 Computer Engineer • 👨‍🏫 Teacher & Trainer • 🚀 Full-Stack Developer • 🎨 Designer
+### Computer Engineer • Teacher & Trainer • Full-Stack Developer • Designer
 
 <p>
   <a href="https://github.com/Quisamela">
@@ -20,36 +20,36 @@
 
 ---
 
-## 🧑🏾‍💻 Sobre mim
+## Sobre mim
 
-Sou **Miguel da Silva Quisamela**, engenheiro informático, professor e formador apaixonado por tecnologia, educação e criação de soluções digitais.
+Sou Miguel da Silva Quisamela, engenheiro informático, professor e formador apaixonado por tecnologia, educação e criação de soluções digitais.
 
 Gosto de transformar problemas reais em sistemas simples, funcionais e escaláveis — desde **sistemas web e plataformas académicas** até **automação, análise de dados, Excel e Power BI**.
 
 Atualmente, o meu foco profissional está especialmente em:
 
-- 🏗️ Desenvolvimento de aplicações web e sistemas de gestão
-- ⚙️ Backend com **PHP/Laravel** e **Python**
-- 🌐 Frontend com **HTML, CSS, JavaScript e jQuery**
-- 🗄️ Bases de dados com **MySQL/SQL**
-- 📊 **Excel avançado, VBA e Power BI**
-- 🤖 Automação, integração de sistemas e ferramentas inteligentes
-- 🎓 Formação em informática, matemática e tecnologia
-- 🎨 Design digital e construção de marcas/produtos tecnológicos
+-  Desenvolvimento de aplicações web e sistemas de gestão
+-  Backend com **PHP/Laravel** e **Python**
+-  Frontend com **HTML, CSS, JavaScript e jQuery**
+-  Bases de dados com **MySQL/SQL**
+-  **Excel avançado, VBA e Power BI**
+-  Automação, integração de sistemas e ferramentas inteligentes
+-  Formação em informática, matemática e tecnologia
+-  Design digital e construção de marcas/produtos tecnológicos
 
 > **"Technology is most powerful when it solves a real problem."**
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 💻 Programming & Development
+### Programming & Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,python,flask,javascript,jquery,html,css,mysql,git,github,vscode&perline=12" />
 </p>
 
-### 📊 Data, Productivity & Automation
+### Data, Productivity & Automation
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql&perline=8" />
@@ -58,7 +58,7 @@ Atualmente, o meu foco profissional está especialmente em:
   <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
-### 🛠️ Tools & Workflow
+### Tools & Workflow
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
